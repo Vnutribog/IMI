@@ -1,6 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
-
-namespace Algo;
+﻿namespace Algo;
 
 class Program
 {

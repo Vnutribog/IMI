@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Etofamiliya\\МИР\\Основы алгоритмизации\\лаба 1\\solution\\Algo\\Algo\\Algo.csproj",
+      "projectUniqueName": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab1\\Algo\\Algo.csproj",
       "projectName": "Algo",
-      "projectPath": "D:\\Etofamiliya\\МИР\\Основы алгоритмизации\\лаба 1\\solution\\Algo\\Algo\\Algo.csproj",
+      "projectPath": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab1\\Algo\\Algo.csproj",
       "packagesPath": "C:\\Users\\Etofamiliya\\.nuget\\packages\\",
-      "outputPath": "D:\\Etofamiliya\\МИР\\Основы алгоритмизации\\лаба 1\\solution\\Algo\\Algo\\obj\\",
+      "outputPath": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab1\\Algo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Applications\\Visual Studio\\2022\\Shared\\NuGetPackages"
