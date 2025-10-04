@@ -1,0 +1,14 @@
+D:\Etofamiliya\МИР\Основы алгоритмизации\лаба 1\solution\Algo\Algo\bin\Debug\net9.0\Algo.exe
+D:\Etofamiliya\МИР\Основы алгоритмизации\лаба 1\solution\Algo\Algo\bin\Debug\net9.0\Algo.deps.json
+D:\Etofamiliya\МИР\Основы алгоритмизации\лаба 1\solution\Algo\Algo\bin\Debug\net9.0\Algo.runtimeconfig.json
+D:\Etofamiliya\МИР\Основы алгоритмизации\лаба 1\solution\Algo\Algo\bin\Debug\net9.0\Algo.dll
+D:\Etofamiliya\МИР\Основы алгоритмизации\лаба 1\solution\Algo\Algo\bin\Debug\net9.0\Algo.pdb
+D:\Etofamiliya\МИР\Основы алгоритмизации\лаба 1\solution\Algo\Algo\obj\Debug\net9.0\Algo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Etofamiliya\МИР\Основы алгоритмизации\лаба 1\solution\Algo\Algo\obj\Debug\net9.0\Algo.AssemblyInfoInputs.cache
+D:\Etofamiliya\МИР\Основы алгоритмизации\лаба 1\solution\Algo\Algo\obj\Debug\net9.0\Algo.AssemblyInfo.cs
+D:\Etofamiliya\МИР\Основы алгоритмизации\лаба 1\solution\Algo\Algo\obj\Debug\net9.0\Algo.csproj.CoreCompileInputs.cache
+D:\Etofamiliya\МИР\Основы алгоритмизации\лаба 1\solution\Algo\Algo\obj\Debug\net9.0\Algo.dll
+D:\Etofamiliya\МИР\Основы алгоритмизации\лаба 1\solution\Algo\Algo\obj\Debug\net9.0\refint\Algo.dll
+D:\Etofamiliya\МИР\Основы алгоритмизации\лаба 1\solution\Algo\Algo\obj\Debug\net9.0\Algo.pdb
+D:\Etofamiliya\МИР\Основы алгоритмизации\лаба 1\solution\Algo\Algo\obj\Debug\net9.0\Algo.genruntimeconfig.cache
+D:\Etofamiliya\МИР\Основы алгоритмизации\лаба 1\solution\Algo\Algo\obj\Debug\net9.0\ref\Algo.dll
