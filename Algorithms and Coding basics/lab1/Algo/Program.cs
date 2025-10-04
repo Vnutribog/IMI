@@ -45,7 +45,7 @@ class Program
                     } 
                     else
                     {
-                        history.Add($"{first} / {second} = {first / second}");
+                        history.Add($"{first} / {second} = {(double)first / second}");
                     }
                     break;
                 case 5:
