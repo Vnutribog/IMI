@@ -43,9 +43,10 @@
             // pictureBoxHero
             // 
             pictureBoxHero.Image = (Image)resources.GetObject("pictureBoxHero.Image");
-            pictureBoxHero.Location = new Point(30, 166);
+            pictureBoxHero.Location = new Point(34, 159);
+            pictureBoxHero.Margin = new Padding(3, 4, 3, 4);
             pictureBoxHero.Name = "pictureBoxHero";
-            pictureBoxHero.Size = new Size(220, 231);
+            pictureBoxHero.Size = new Size(251, 308);
             pictureBoxHero.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBoxHero.TabIndex = 0;
             pictureBoxHero.TabStop = false;
@@ -53,27 +54,30 @@
             // pictureBoxVillain
             // 
             pictureBoxVillain.Image = (Image)resources.GetObject("pictureBoxVillain.Image");
-            pictureBoxVillain.Location = new Point(324, 166);
+            pictureBoxVillain.Location = new Point(370, 159);
+            pictureBoxVillain.Margin = new Padding(3, 4, 3, 4);
             pictureBoxVillain.Name = "pictureBoxVillain";
-            pictureBoxVillain.Size = new Size(220, 231);
+            pictureBoxVillain.Size = new Size(251, 308);
             pictureBoxVillain.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBoxVillain.TabIndex = 1;
             pictureBoxVillain.TabStop = false;
             // 
             // progressBarVillainHP
             // 
-            progressBarVillainHP.Location = new Point(324, 436);
+            progressBarVillainHP.Location = new Point(370, 519);
+            progressBarVillainHP.Margin = new Padding(3, 4, 3, 4);
             progressBarVillainHP.Name = "progressBarVillainHP";
-            progressBarVillainHP.Size = new Size(220, 32);
+            progressBarVillainHP.Size = new Size(251, 43);
             progressBarVillainHP.TabIndex = 3;
             progressBarVillainHP.Value = 100;
             // 
             // buttonHitVillain
             // 
             buttonHitVillain.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            buttonHitVillain.Location = new Point(324, 560);
+            buttonHitVillain.Location = new Point(370, 635);
+            buttonHitVillain.Margin = new Padding(3, 4, 3, 4);
             buttonHitVillain.Name = "buttonHitVillain";
-            buttonHitVillain.Size = new Size(220, 45);
+            buttonHitVillain.Size = new Size(251, 60);
             buttonHitVillain.TabIndex = 4;
             buttonHitVillain.Text = "Ударить!";
             buttonHitVillain.UseVisualStyleBackColor = true;
@@ -82,9 +86,10 @@
             // buttonRetire
             // 
             buttonRetire.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            buttonRetire.Location = new Point(30, 560);
+            buttonRetire.Location = new Point(34, 635);
+            buttonRetire.Margin = new Padding(3, 4, 3, 4);
             buttonRetire.Name = "buttonRetire";
-            buttonRetire.Size = new Size(220, 45);
+            buttonRetire.Size = new Size(251, 60);
             buttonRetire.TabIndex = 5;
             buttonRetire.Text = "Отступить";
             buttonRetire.UseVisualStyleBackColor = true;
@@ -94,9 +99,9 @@
             // 
             labelHero.AutoSize = true;
             labelHero.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            labelHero.Location = new Point(107, 80);
+            labelHero.Location = new Point(122, 45);
             labelHero.Name = "labelHero";
-            labelHero.Size = new Size(70, 30);
+            labelHero.Size = new Size(92, 37);
             labelHero.TabIndex = 6;
             labelHero.Text = "Герой";
             // 
@@ -104,17 +109,17 @@
             // 
             labelVillain.AutoSize = true;
             labelVillain.Font = new Font("Segoe UI", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            labelVillain.Location = new Point(402, 80);
+            labelVillain.Location = new Point(459, 45);
             labelVillain.Name = "labelVillain";
-            labelVillain.Size = new Size(81, 30);
+            labelVillain.Size = new Size(107, 37);
             labelVillain.TabIndex = 7;
             labelVillain.Text = "Злодей";
             // 
             // BattleForm
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(570, 781);
+            ClientSize = new Size(652, 843);
             Controls.Add(labelVillain);
             Controls.Add(labelHero);
             Controls.Add(buttonRetire);
@@ -122,6 +127,7 @@
             Controls.Add(progressBarVillainHP);
             Controls.Add(pictureBoxVillain);
             Controls.Add(pictureBoxHero);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "BattleForm";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "RPGClicker";

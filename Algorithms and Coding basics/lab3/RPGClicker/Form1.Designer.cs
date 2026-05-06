@@ -49,36 +49,37 @@
             // labelStrength
             // 
             labelStrength.AutoSize = true;
-            labelStrength.Location = new Point(45, 52);
+            labelStrength.Location = new Point(51, 69);
             labelStrength.Name = "labelStrength";
-            labelStrength.Size = new Size(84, 25);
+            labelStrength.Size = new Size(106, 32);
             labelStrength.TabIndex = 0;
             labelStrength.Text = "Сила: 10";
             // 
             // labelAgility
             // 
             labelAgility.AutoSize = true;
-            labelAgility.Location = new Point(45, 100);
+            labelAgility.Location = new Point(51, 133);
             labelAgility.Name = "labelAgility";
-            labelAgility.Size = new Size(112, 25);
+            labelAgility.Size = new Size(141, 32);
             labelAgility.TabIndex = 1;
             labelAgility.Text = "Ловкость: 4";
             // 
             // labelGold
             // 
             labelGold.AutoSize = true;
-            labelGold.Location = new Point(272, 52);
+            labelGold.Location = new Point(311, 69);
             labelGold.Name = "labelGold";
-            labelGold.Size = new Size(92, 25);
+            labelGold.Size = new Size(117, 32);
             labelGold.TabIndex = 2;
             labelGold.Text = "Золото: 0";
             // 
             // buttonTraining
             // 
             buttonTraining.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            buttonTraining.Location = new Point(29, 147);
+            buttonTraining.Location = new Point(33, 196);
+            buttonTraining.Margin = new Padding(3, 4, 3, 4);
             buttonTraining.Name = "buttonTraining";
-            buttonTraining.Size = new Size(138, 45);
+            buttonTraining.Size = new Size(158, 60);
             buttonTraining.TabIndex = 3;
             buttonTraining.Text = "Тренироваться";
             buttonTraining.UseVisualStyleBackColor = true;
@@ -87,9 +88,10 @@
             // buttonWorking
             // 
             buttonWorking.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            buttonWorking.Location = new Point(272, 148);
+            buttonWorking.Location = new Point(311, 197);
+            buttonWorking.Margin = new Padding(3, 4, 3, 4);
             buttonWorking.Name = "buttonWorking";
-            buttonWorking.Size = new Size(138, 44);
+            buttonWorking.Size = new Size(158, 59);
             buttonWorking.TabIndex = 4;
             buttonWorking.Text = "Работать";
             buttonWorking.UseVisualStyleBackColor = true;
@@ -98,17 +100,19 @@
             // shopComboBox
             // 
             shopComboBox.FormattingEnabled = true;
-            shopComboBox.Location = new Point(15, 49);
+            shopComboBox.Location = new Point(17, 65);
+            shopComboBox.Margin = new Padding(3, 4, 3, 4);
             shopComboBox.Name = "shopComboBox";
-            shopComboBox.Size = new Size(229, 33);
+            shopComboBox.Size = new Size(261, 40);
             shopComboBox.TabIndex = 5;
             // 
             // buttonBuyItem
             // 
             buttonBuyItem.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            buttonBuyItem.Location = new Point(296, 126);
+            buttonBuyItem.Location = new Point(338, 168);
+            buttonBuyItem.Margin = new Padding(3, 4, 3, 4);
             buttonBuyItem.Name = "buttonBuyItem";
-            buttonBuyItem.Size = new Size(135, 33);
+            buttonBuyItem.Size = new Size(154, 44);
             buttonBuyItem.TabIndex = 6;
             buttonBuyItem.Text = "Купить";
             buttonBuyItem.UseVisualStyleBackColor = true;
@@ -124,9 +128,11 @@
             CharGroupBox.Controls.Add(buttonTraining);
             CharGroupBox.Controls.Add(labelAgility);
             CharGroupBox.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            CharGroupBox.Location = new Point(51, 63);
+            CharGroupBox.Location = new Point(58, 24);
+            CharGroupBox.Margin = new Padding(3, 4, 3, 4);
             CharGroupBox.Name = "CharGroupBox";
-            CharGroupBox.Size = new Size(461, 361);
+            CharGroupBox.Padding = new Padding(3, 4, 3, 4);
+            CharGroupBox.Size = new Size(527, 423);
             CharGroupBox.TabIndex = 7;
             CharGroupBox.TabStop = false;
             CharGroupBox.Text = "Ваш персонаж";
@@ -134,17 +140,18 @@
             // labelEnergy
             // 
             labelEnergy.AutoSize = true;
-            labelEnergy.Location = new Point(79, 289);
+            labelEnergy.Location = new Point(47, 320);
             labelEnergy.Name = "labelEnergy";
-            labelEnergy.Size = new Size(88, 25);
+            labelEnergy.Size = new Size(110, 32);
             labelEnergy.TabIndex = 6;
             labelEnergy.Text = "Энергия:";
             // 
             // energyProgressBar
             // 
-            energyProgressBar.Location = new Point(186, 280);
+            energyProgressBar.Location = new Point(187, 306);
+            energyProgressBar.Margin = new Padding(3, 4, 3, 4);
             energyProgressBar.Name = "energyProgressBar";
-            energyProgressBar.Size = new Size(235, 43);
+            energyProgressBar.Size = new Size(269, 57);
             energyProgressBar.TabIndex = 5;
             energyProgressBar.Value = 100;
             // 
@@ -155,9 +162,11 @@
             ShopGroupBox.Controls.Add(shopComboBox);
             ShopGroupBox.Controls.Add(buttonBuyItem);
             ShopGroupBox.Font = new Font("Segoe UI", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            ShopGroupBox.Location = new Point(51, 458);
+            ShopGroupBox.Location = new Point(58, 482);
+            ShopGroupBox.Margin = new Padding(3, 4, 3, 4);
             ShopGroupBox.Name = "ShopGroupBox";
-            ShopGroupBox.Size = new Size(461, 190);
+            ShopGroupBox.Padding = new Padding(3, 4, 3, 4);
+            ShopGroupBox.Size = new Size(527, 253);
             ShopGroupBox.TabIndex = 8;
             ShopGroupBox.TabStop = false;
             ShopGroupBox.Text = "Магазин";
@@ -165,27 +174,28 @@
             // labelShopItemDescription
             // 
             labelShopItemDescription.AutoSize = true;
-            labelShopItemDescription.Location = new Point(29, 128);
+            labelShopItemDescription.Location = new Point(33, 171);
             labelShopItemDescription.Name = "labelShopItemDescription";
-            labelShopItemDescription.Size = new Size(187, 25);
+            labelShopItemDescription.Size = new Size(237, 32);
             labelShopItemDescription.TabIndex = 8;
             labelShopItemDescription.Text = "Описание предмета";
             // 
             // labelShopItemCost
             // 
             labelShopItemCost.AutoSize = true;
-            labelShopItemCost.Location = new Point(272, 52);
+            labelShopItemCost.Location = new Point(311, 69);
             labelShopItemCost.Name = "labelShopItemCost";
-            labelShopItemCost.Size = new Size(76, 25);
+            labelShopItemCost.Size = new Size(96, 32);
             labelShopItemCost.TabIndex = 7;
             labelShopItemCost.Text = "Цена: 0";
             // 
             // buttonOpenArena
             // 
             buttonOpenArena.Font = new Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            buttonOpenArena.Location = new Point(377, 701);
+            buttonOpenArena.Location = new Point(431, 755);
+            buttonOpenArena.Margin = new Padding(3, 4, 3, 4);
             buttonOpenArena.Name = "buttonOpenArena";
-            buttonOpenArena.Size = new Size(135, 45);
+            buttonOpenArena.Size = new Size(154, 60);
             buttonOpenArena.TabIndex = 9;
             buttonOpenArena.Text = "В бой!";
             buttonOpenArena.UseVisualStyleBackColor = true;
@@ -193,12 +203,13 @@
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(570, 781);
+            ClientSize = new Size(652, 843);
             Controls.Add(buttonOpenArena);
             Controls.Add(ShopGroupBox);
             Controls.Add(CharGroupBox);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "RPGClicker";

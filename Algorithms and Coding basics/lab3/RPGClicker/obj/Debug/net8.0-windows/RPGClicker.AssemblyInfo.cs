@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RPGClicker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d34d920859f3c8103e373aa38f483bba8b1d496")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a3ed3a65e0b2165e686f7ada64119266b843f5b")]
 [assembly: System.Reflection.AssemblyProductAttribute("RPGClicker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RPGClicker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
