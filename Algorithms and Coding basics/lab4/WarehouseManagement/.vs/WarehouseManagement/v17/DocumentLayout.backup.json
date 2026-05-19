@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab4\\WarehouseManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA1073E-F123-43C2-8002-99C5526A0213}|WarehouseManagement.csproj|d:\\etofamiliya\\imi\\algorithms and coding basics\\lab4\\warehousemanagement\\newitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AA1073E-F123-43C2-8002-99C5526A0213}|WarehouseManagement.csproj|solutionrelative:newitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA1073E-F123-43C2-8002-99C5526A0213}|WarehouseManagement.csproj|d:\\etofamiliya\\imi\\algorithms and coding basics\\lab4\\warehousemanagement\\goodslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8AA1073E-F123-43C2-8002-99C5526A0213}|WarehouseManagement.csproj|solutionrelative:goodslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA1073E-F123-43C2-8002-99C5526A0213}|WarehouseManagement.csproj|d:\\etofamiliya\\imi\\algorithms and coding basics\\lab4\\warehousemanagement\\goodslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA1073E-F123-43C2-8002-99C5526A0213}|WarehouseManagement.csproj|solutionrelative:goodslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AA1073E-F123-43C2-8002-99C5526A0213}|WarehouseManagement.csproj|d:\\etofamiliya\\imi\\algorithms and coding basics\\lab4\\warehousemanagement\\newitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AA1073E-F123-43C2-8002-99C5526A0213}|WarehouseManagement.csproj|solutionrelative:newitemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewItemForm.cs [Design]",
+              "DocumentMoniker": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab4\\WarehouseManagement\\NewItemForm.cs",
+              "RelativeDocumentMoniker": "NewItemForm.cs",
+              "ToolTip": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab4\\WarehouseManagement\\NewItemForm.cs [Design]",
+              "RelativeToolTip": "NewItemForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:03:21.107Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewItemForm.cs",
+              "DocumentMoniker": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab4\\WarehouseManagement\\NewItemForm.cs",
+              "RelativeDocumentMoniker": "NewItemForm.cs",
+              "ToolTip": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab4\\WarehouseManagement\\NewItemForm.cs",
+              "RelativeToolTip": "NewItemForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:32:44.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GoodsList.cs",
+              "DocumentMoniker": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab4\\WarehouseManagement\\GoodsList.cs",
+              "RelativeDocumentMoniker": "GoodsList.cs",
+              "ToolTip": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab4\\WarehouseManagement\\GoodsList.cs",
+              "RelativeToolTip": "GoodsList.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwGQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T21:31:25.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GoodsList.cs [Design]",
+              "DocumentMoniker": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab4\\WarehouseManagement\\GoodsList.cs",
+              "RelativeDocumentMoniker": "GoodsList.cs",
+              "ToolTip": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab4\\WarehouseManagement\\GoodsList.cs [Design]",
+              "RelativeToolTip": "GoodsList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T13:46:26.324Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

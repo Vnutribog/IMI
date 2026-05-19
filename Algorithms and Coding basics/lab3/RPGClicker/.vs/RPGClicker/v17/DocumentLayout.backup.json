@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab3\\RPGClicker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF10983C-1F78-474A-AE0F-97DA0B27C3CA}|RPGClicker.csproj|D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab3\\RPGClicker\\battleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{CF10983C-1F78-474A-AE0F-97DA0B27C3CA}|RPGClicker.csproj|d:\\etofamiliya\\imi\\algorithms and coding basics\\lab3\\rpgclicker\\battleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF10983C-1F78-474A-AE0F-97DA0B27C3CA}|RPGClicker.csproj|solutionrelative:battleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF10983C-1F78-474A-AE0F-97DA0B27C3CA}|RPGClicker.csproj|d:\\etofamiliya\\imi\\algorithms and coding basics\\lab3\\rpgclicker\\battleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{CF10983C-1F78-474A-AE0F-97DA0B27C3CA}|RPGClicker.csproj|solutionrelative:battleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CF10983C-1F78-474A-AE0F-97DA0B27C3CA}|RPGClicker.csproj|d:\\etofamiliya\\imi\\algorithms and coding basics\\lab3\\rpgclicker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF10983C-1F78-474A-AE0F-97DA0B27C3CA}|RPGClicker.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF10983C-1F78-474A-AE0F-97DA0B27C3CA}|RPGClicker.csproj|d:\\etofamiliya\\imi\\algorithms and coding basics\\lab3\\rpgclicker\\battleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF10983C-1F78-474A-AE0F-97DA0B27C3CA}|RPGClicker.csproj|solutionrelative:battleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,41 +26,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "BattleForm.cs",
               "DocumentMoniker": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab3\\RPGClicker\\BattleForm.cs",
               "RelativeDocumentMoniker": "BattleForm.cs",
-              "ToolTip": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab3\\RPGClicker\\BattleForm.cs*",
-              "RelativeToolTip": "BattleForm.cs*",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAcwCgAAAAxAAAAAAAAAA==",
+              "ToolTip": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab3\\RPGClicker\\BattleForm.cs",
+              "RelativeToolTip": "BattleForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA2wCcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T23:14:43.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BattleForm.cs [Design]",
               "DocumentMoniker": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab3\\RPGClicker\\BattleForm.cs",
               "RelativeDocumentMoniker": "BattleForm.cs",
-              "ToolTip": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab3\\RPGClicker\\BattleForm.cs [Design]*",
-              "RelativeToolTip": "BattleForm.cs [Design]*",
+              "ToolTip": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab3\\RPGClicker\\BattleForm.cs [Design]",
+              "RelativeToolTip": "BattleForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T22:20:29.683Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab3\\RPGClicker\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab3\\RPGClicker\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
+              "ToolTip": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab3\\RPGClicker\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAG4AAAAAAAAAAAAuwAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-05T22:43:12.633Z",
@@ -68,15 +68,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab3\\RPGClicker\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab3\\RPGClicker\\Form1.cs [Design]*",
-              "RelativeToolTip": "Form1.cs [Design]*",
+              "ToolTip": "D:\\Etofamiliya\\IMI\\Algorithms and Coding basics\\lab3\\RPGClicker\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-05T21:07:31.351Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-05-05T21:07:31.351Z"
             }
           ]
         }
